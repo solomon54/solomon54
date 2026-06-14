@@ -1,109 +1,60 @@
-<div align="center">
-  <h1>👋 Hi, I'm Solomon Tsehay!</h1>
-  <p><strong>ALX Software Engineering Learner | Passionate Problem Solver | Advancing African Agriculture with Tech</strong></p>
-  <img src="https://img.shields.io/badge/ALX%20Software%20Engineering-2025-blue" alt="ALX Software Engineering" />
-  <img src="https://img.shields.io/badge/-AI%20%26%20DevSecOps%20Aspirant-orange" alt="AI & DevSecOps" />
-  <img src="https://img.shields.io/badge/-Africa%20Tech%20Enthusiast-green" alt="Africa Tech Enthusiast" />
-</div>
+# Solomon Tsehay
+
+I build software that solves real problems for real people. Not demos. Not tutorials. Things that are live, running, and actually used.
+
+My process: find something broken → understand it properly → build a fix → ship it → keep improving it until it genuinely helps someone. Sometimes that takes longer than expected. That's fine.
 
 ---
 
-## 🌍 About Me
+## What I've built
 
-I’m a dedicated software engineering learner at **ALX Africa**, driven by a passion for solving real-world challenges through innovative technology. My mission is to empower Africa’s agricultural sector by integrating modern tools like AI and secure development practices (DevSecOps) to enhance efficiency and sustainability. Inspired by the potential to transform traditional farming, I’m committed to building scalable, impactful solutions that drive progress across the continent.
+**[Dove Barber](https://dove-barber.vercel.app)** — 2026, Addis Ababa  
+Barbershops in Addis lose customers every day to one simple problem: nobody knows how long the wait is. I built a live queue system for a shop in Gerji Mebrat Haile that lets customers reserve a spot, track their position in real time, and get a 30-minute alert before their turn. No account needed. Still running.
 
-- 🔭 **Currently working on**: Enhancing my full-stack skills and exploring AI-driven solutions for agriculture.
-- 🌱 **Learning**: Advanced JavaScript, PHP, databases, and advanced CSS through ALX, with a focus on AI and DevSecOps principles.
-- 💡 **Inspired by**: The opportunity to modernize African farming practices with technology, improving yields and livelihoods.
-- 📫 **Reach me**: [solomontsehay54@gmail.com](mailto:solomontsehay54@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/yourprofile) | [Twitter/X](https://x.com/SolomonTy21)
+**[Atsede Niseha · ዐጸደ ንስሐ](https://atsede-niseha-v1.vercel.app)** — 2025  
+Some platforms need to exist quietly. This one serves a specific spiritual community within the Ethiopian Orthodox Tewahedo Church — managing what needed to be managed digitally, without exposing what should stay private. Amharic-first interface, identity verification, controlled access. Built with care for the people it's for.
 
----
+**[Hinsete Seb · ሕንጸተ ሰብእ](https://hinsete-seb-v1.vercel.app)** — 2025  
+Ethiopia has centuries of written academic and spiritual tradition. Most of it has no digital home. This is an offline-first PWA built to archive and present manuscripts in Ge'ez and Amharic — works without internet, built for places where connectivity isn't guaranteed. Custom script rendering, client-side encryption, controlled content release.
 
-## 💻 My Tech Stack
+**[Forest·Trails Ethiopia](https://forest-trails-digital-tour-v1.vercel.app)** — 2025  
+Ethiopia's ancient church forests are some of the most biodiverse and spiritually significant places on earth. Most travelers never find them. This platform connects people to curated eco-tours through these forests — Simien Mountains, Lake Tana, Zege Peninsula — while supporting local guides and preservation. Tour listings, user auth, community impact tracking.
 
-Here’s what I’m using to build innovative solutions for Africa’s future:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
-</div>
+**[Nexus Movie](https://project-nexus-blue.vercel.app)** — 2025  
+A movie discovery platform with personal library management and context-aware recommendations. Built the full stack — dark cinematic UI, user profiles, recommendation logic.
 
 ---
 
-## 🚀 Standout Projects
+## Earlier work
 
-These projects showcase my skills and passion for creating user-centric, impactful solutions. While some are front-end focused, my full-stack TaskWise project demonstrates my ability to build functional applications. I’m eager to extend these skills to agritech solutions.
+Projects I built while learning — following courses, experimenting, getting the fundamentals right. Not the same level as the work above, but honest steps in the process.
 
-### 📋 TaskWise: Smart Task Controller
-
-_Streamlined task management for productivity._
-
-- **Description**: A full-stack task management application that enables users to create, track, and manage tasks with real-time updates. Designed for personal and team productivity, with potential applications for farm task scheduling.
-- **Tech Stack**: JavaScript, PHP, MySQL, Advanced CSS, HTML.
-- **Impact**: Simplifies task organization; tested with sample data to handle multiple users efficiently.
-- **Repo**: [TaskWise GitHub Repo](https://github.com/solomon54/taskwise) | **Demo**: [taskwise.wuaze.com](https://taskwise.wuaze.com/index.php)
-
-### 🍲 Omnifood
-
-_Healthy eating tailored to you._
-
-- **Description**: A front-end food delivery platform with a responsive design, showcasing personalized meal plans generated by AI concepts. Future iterations could integrate with local African farmers for fresh produce delivery.
-- **Tech Stack**: JavaScript, Advanced CSS, HTML.
-- **Impact**: Engages users with an intuitive interface; lays the foundation for a scalable food-tech solution.
-- **Repo**: [Omnifood GitHub Repo](https://github.com/solomon54/omnifood) | **Demo**: [omnifood-solomont.netlify.app](https://omnifood-solomont.netlify.app)
-
-### 🗺️ Natours
-
-_Adventure awaits with seamless tour booking._
-
-- **Description**: A front-end tour booking platform featuring responsive layouts and interactive booking forms. Designed for adventure seekers, with potential to promote eco-tourism in African regions.
-- **Tech Stack**: JavaScript, Advanced CSS, HTML.
-- **Impact**: Enhances user experience for tour planning; future versions could integrate sustainable tourism features.
-- **Repo**: [Natours GitHub Repo](https://github.com/solomon54/natours) | **Demo**: [solomon-natours.netlify.app](https://solomon-natours.netlify.app)
-
-### ✈️ Travel
-
-_Your all-in-one travel booking experience._
-
-- **Description**: A front-end travel booking app with a focus on intuitive design for destination searches and itineraries. Could be adapted to support tourism in Ethiopia’s cultural hubs like Lake Tana.
-- **Tech Stack**: JavaScript, Advanced CSS, HTML.
-- **Impact**: Simplifies travel planning; a foundation for connecting travelers with local experiences.
-- **Repo**: [Travel GitHub Repo](https://github.com/solomon54/travel) | **Demo**: [solomon-travel.netlify.app](https://solomon-travel.netlify.app)
+- [Omnifood](https://omnifood-solomont.netlify.app) — responsive food delivery UI
+- [Natours](https://solomon-natours.netlify.app) — tour booking frontend
+- [Travel](https://solomon-travel.netlify.app) — travel booking UI
 
 ---
 
-## 🌟 Why I Stand Out
+## Stack
 
-- **Problem-Solving Mindset**: I excel at breaking down complex challenges, from building responsive UIs to designing secure backend systems.
-- **Agritech Vision**: My projects align with my goal to modernize African agriculture using AI and DevSecOps practices.
-- **ALX Training**: Rigorous training in full-stack development, teamwork, and agile methodologies through ALX Africa.
-- **Continuous Learner**: Actively exploring AI and DevSecOps to create secure, scalable solutions for real-world problems.
+**Using:** JavaScript · TypeScript · React · Next.js · Tailwind CSS · Node.js · REST APIs · Git · Vercel  
+**Learning:** Docker · Linux · CI/CD · DevOps fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## Certifications — ALX Africa
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solomon54&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon54&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+- Professional Foundations — September 2025
+- ProDev Frontend — February 2026
+- Cybersecurity — April 2026
+- AI Career Essentials 2.0 — April 2026 · 100%
 
 ---
 
-## 🤝 Let’s Connect!
+## Background
 
-I’m eager to collaborate on projects that drive innovation in Africa, particularly in agritech, AI, and DevSecOps. Whether you’re hiring, building, or just want to discuss tech, reach out!
+4th year of a 5-year BSc in Software Engineering. Currently open to junior software engineer, frontend developer, and web developer roles in Ethiopia.
 
-- 📧 **Email**: [solomontsehay54@gmail.com](mailto:solomontsehay54@gmail.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter/X**: [SolomonTy21](https://x.com/SolomonTy21)
-- 🌐 **Portfolio**: [My Portfolio Website](#solomon54)
+---
 
-<div align="center">
-  <p><strong>Let’s build the future of African tech together! 🚀</strong></p>
-</div>
+[Portfolio](https://my-portfolio-ma21mik12.vercel.app) · [LinkedIn](https://www.linkedin.com/in/solomon-tsehay) · [Twitter/X](https://x.com/SolomonTy21) · solomontsehay54@gmail.com
