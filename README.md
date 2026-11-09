@@ -83,6 +83,6 @@ Professional Foundations (Sep 2025) · ProDev Frontend (Feb 2026) · Cybersecuri
 
 <br/>
 
->## Open to work <img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square" height="18" alt="Live"/>
+## Open to work <img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square" height="18" alt="Live"/>
 
 Engineering roles, product collaborations and commercial projects. If you have a real operational problem that needs a working system, write to <stronge> <sub> <I> [solomontsehay54@gmail.com](mailto:solomontsehay54@gmail.com) <I> </sub> </stronge>.
