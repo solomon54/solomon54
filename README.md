@@ -1,60 +1,88 @@
-# Solomon Tsehay
+<div align="center">
 
-I build software that solves real problems for real people. Not demos. Not tutorials. Things that are live, running, and actually used.
+<h1>Solomon Tsehay</h1>
 
-My process: find something broken → understand it properly → build a fix → ship it → keep improving it until it genuinely helps someone. Sometimes that takes longer than expected. That's fine.
+<p>
+  <b>Software Engineer · Full-stack Product Development</b><br/>
+  Fourth-year BSc Software Engineering · Addis Ababa, Ethiopia
+</p>
 
----
+<p>
+  I build and ship software for real operational needs, and stay with it after launch.<br/>
+  Currently maintaining commercial products in production.
+</p>
 
-## What I've built
+<p>
+  <a href="https://my-portfolio-ma21mik12.vercel.app"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/solomon-tsehay"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMEE2NkMyIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://x.com/SolomonTy21"><img src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+  <a href="mailto:solomontsehay54@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+</p>
 
-**[Dove Barber](https://dove-barber.vercel.app)** — 2026, Addis Ababa  
-Barbershops in Addis lose customers every day to one simple problem: nobody knows how long the wait is. I built a live queue system for a shop in Gerji Mebrat Haile that lets customers reserve a spot, track their position in real time, and get a 30-minute alert before their turn. No account needed. Still running.
+<br/>
 
-**[Atsede Niseha · ዐጸደ ንስሐ](https://atsede-niseha-v1.vercel.app)** — 2025  
-Some platforms need to exist quietly. This one serves a specific spiritual community within the Ethiopian Orthodox Tewahedo Church — managing what needed to be managed digitally, without exposing what should stay private. Amharic-first interface, identity verification, controlled access. Built with care for the people it's for.
+<h3>Technology Stack</h3>
 
-**[Hinsete Seb · ሕንጸተ ሰብእ](https://hinsete-seb-v1.vercel.app)** — 2025  
-Ethiopia has centuries of written academic and spiritual tradition. Most of it has no digital home. This is an offline-first PWA built to archive and present manuscripts in Ge'ez and Amharic — works without internet, built for places where connectivity isn't guaranteed. Custom script rendering, client-side encryption, controlled content release.
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,postgres,vercel,git&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Supabase, PostgreSQL, Vercel, Git"/>
 
-**[Forest·Trails Ethiopia](https://forest-trails-digital-tour-v1.vercel.app)** — 2025  
-Ethiopia's ancient church forests are some of the most biodiverse and spiritually significant places on earth. Most travelers never find them. This platform connects people to curated eco-tours through these forests — Simien Mountains, Lake Tana, Zege Peninsula — while supporting local guides and preservation. Tour listings, user auth, community impact tracking.
+</div>
 
-**[Nexus Movie](https://project-nexus-blue.vercel.app)** — 2025  
-A movie discovery platform with personal library management and context-aware recommendations. Built the full stack — dark cinematic UI, user profiles, recommendation logic.
+<br/>
 
----
+## Flagship work
 
-## Earlier work
+#### [Dove Barber](https://dove-barber.vercel.app) <sub>2026</sub> &nbsp;<img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square" height="18" alt="Live"/>
 
-Projects I built while learning — following courses, experimenting, getting the fundamentals right. Not the same level as the work above, but honest steps in the process.
+Real-time queue management for a barbershop in Gerji Mebrat Haile, Addis Ababa. Customers reserve a spot, follow their position live, and get an alert 30 minutes before their turn, with no account required. Still running.<br/>
+<sub>Next.js · TypeScript · Supabase · Tailwind CSS</sub><br/>
+<sub> [Live application](https://dove-barber.vercel.app) · [Repository](https://github.com/solomon54/uncle-grooming-hub) </sub>
 
-- [Omnifood](https://omnifood-solomont.netlify.app) — responsive food delivery UI
-- [Natours](https://solomon-natours.netlify.app) — tour booking frontend
-- [Travel](https://solomon-travel.netlify.app) — travel booking UI
+#### [GIX Nexus Telecom & Power](https://gixnexus.net.et) <sub>2026</sub> &nbsp;<img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square" height="18" alt="Live"/>
 
----
+Bilingual (English/Amharic) platform for a telecommunications and power engineering company, with a staff-facing content management system, self-hosted in production on Dokploy.<br/>
+<sub>Next.js · Payload CMS · PostgreSQL · next-intl · Tailwind CSS</sub><br/>
+<sub> [Live platform](https://gixnexus.net.et) · [Repository](https://github.com/solomon54/GIX-Nexus-Digital-Platform) </sub>
 
-## Stack
+<br/>
 
-**Using:** JavaScript · TypeScript · React · Next.js · Tailwind CSS · Node.js · REST APIs · Git · Vercel  
-**Learning:** Docker · Linux · CI/CD · DevOps fundamentals
+## More work
 
----
+#### [Atsede Niseha · ዐጸደ ንስሐ](https://atsede-niseha-v1.vercel.app) <sub>2025</sub>
 
-## Certifications — ALX Africa
+Controlled-access platform for an Ethiopian Orthodox community: identity verification, private records, Amharic-first.<br/>
+<sub> [Live](https://atsede-niseha-v1.vercel.app) · [Repository](https://github.com/solomon54/atsede-niseha) </sub>
 
-- Professional Foundations — September 2025
-- ProDev Frontend — February 2026
-- Cybersecurity — April 2026
-- AI Career Essentials 2.0 — April 2026 · 100%
+#### [Hinsete Seb · ሕንጸተ ሰብእ](https://hinsete-seb-v1.vercel.app) <sub>2025</sub>
 
----
+Offline-first PWA archive for Ge'ez and Amharic manuscripts, with custom script rendering and client-side encryption.<br/>
+<sub> [Live](https://hinsete-seb-v1.vercel.app) · [Repository](https://github.com/solomon54/hinsete-seb) </sub>
 
-## Background
+#### [Forest·Trails Ethiopia](https://forest-trails-digital-tour-v1.vercel.app) <sub>2025</sub>
 
-4th year of a 5-year BSc in Software Engineering. Currently open to junior software engineer, frontend developer, and web developer roles in Ethiopia.
+Eco-tourism platform for Ethiopia's church forests, connecting visitors with local guides.<br/>
+<sub> [Live](https://forest-trails-digital-tour-v1.vercel.app) · [Repository](https://github.com/solomon54/Forest-Trails-Digital-Tour) </sub>
 
----
+#### [Nexus Movie](https://project-nexus-blue.vercel.app) <sub>2025</sub>
 
-[Portfolio](https://my-portfolio-ma21mik12.vercel.app) · [LinkedIn](https://www.linkedin.com/in/solomon-tsehay) · [Twitter/X](https://x.com/SolomonTy21) · solomontsehay54@gmail.com
+Movie discovery with mood-based recommendations, personal collections and streaming availability.<br/>
+<sub> [Live](https://project-nexus-blue.vercel.app) · [Repository](https://github.com/solomon54/alx-project-nexus) </sub>
+
+<br/>
+
+## Education
+
+#### BSc Software Engineering
+
+Year 4 of 5, Semester 2
+
+#### ALX Africa
+
+Independent professional training alongside the degree.<br/>
+Professional Foundations (Sep 2025) · ProDev Frontend (Feb 2026) · Cybersecurity (Apr 2026) · AI Career Essentials 2.0 (Apr 2026, 100%)<br/>
+<sub>Further programmes in progress.</sub>
+
+<br/>
+
+>## Open to work <img src="https://img.shields.io/badge/LIVE-2ea043?style=flat-square" height="18" alt="Live"/>
+
+Engineering roles, product collaborations and commercial projects. If you have a real operational problem that needs a working system, write to <stronge> <sub> <I> [solomontsehay54@gmail.com](mailto:solomontsehay54@gmail.com) <I> </sub> </stronge>.
